@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "c89-complete-code-tech",
+    "slug": "snack-04342f69-f3c5-4bc7-b1d0-59cb3917f77d",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "whitehatjr/book-santa-stage-4 @ Apr 4, 2020"
+  }
+}
